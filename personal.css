@@ -1,0 +1,80 @@
+#myHeader {
+	background-color: #5b024e;
+	font-family : Audiowide;
+}
+.h4header {
+	color: white;
+	padding: 30px;
+}
+.buttonheader {
+	color: #5b024e !important;
+}
+.typoperso {
+	font-family : Audiowide;
+}
+@media screen and (min-width: 300px) {
+	.logo {
+		width: 80%;
+	}
+	.h4header {
+		font-size: 60%!important;
+	}
+	.buttonheader {
+		width: 50%;
+		font-size: 0.5rem;
+	}
+	#myHeader {
+		padding: 8rem 1rem 8rem 1rem;
+	}
+}
+@media screen and (min-width: 600px) {
+	.logo {
+		width: 80%;
+	}
+	.h4header {
+		font-size: 70%!important;
+	}
+	.buttonheader {
+		width: 50%;
+		font-size: 0.9rem;
+	}
+	#myHeader {
+		padding: 3rem 1rem 3rem 1rem;
+	}
+}
+@media screen and (min-width: 700px) {
+	.logo {
+		width: 47%;
+	}
+	.h4header {
+		font-size: 1rem!important;
+	}
+	.buttonheader {
+		width: 45%;
+		font-size: 1rem;
+	}
+	#myHeader {
+		padding: 5.5rem 1rem 5.5rem 1rem;
+	}
+	.navcenter {
+
+	}
+}
+@media screen and (min-width: 1200px) {
+	.logo {
+		width: 47%;
+	}
+	.h4header {
+		font-size: 1rem!important;
+	}
+	.buttonheader {
+		width: 25%;
+		font-size: 1.4rem;
+	}
+	#myHeader {
+		padding: 3rem 1rem 3rem 1rem;
+	}
+	.navcenter {
+
+	}
+}
